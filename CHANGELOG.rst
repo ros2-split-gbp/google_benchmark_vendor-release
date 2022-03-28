@@ -2,6 +2,12 @@
 Changelog for package google_benchmark_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.0 (2022-03-28)
+------------------
+* Use git hash for google_benchmark_vendor (`#20 <https://github.com/ament/google_benchmark_vendor/issues/20>`_)
+* Update to google benchmark version 1.6.1 (`#19 <https://github.com/ament/google_benchmark_vendor/issues/19>`_)
+* Contributors: Chris Lalancette, Shane Loretz
+
 0.0.7 (2022-01-14)
 ------------------
 * Update maintainers to Audrow Nash (`#18 <https://github.com/ament/google_benchmark_vendor/issues/18>`_)
