@@ -1,0 +1,12 @@
+Source: ros-humble-google-benchmark-vendor
+Section: misc
+Priority: optional
+Maintainer: Audrow Nash <audrow@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), cmake, git, libbenchmark-dev, ros-humble-ros-workspace
+Homepage: https://github.com/google/benchmark
+Standards-Version: 3.9.2
+
+Package: ros-humble-google-benchmark-vendor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libbenchmark-dev, ros-humble-ros-workspace
+Description: This package provides Google Benchmark.
