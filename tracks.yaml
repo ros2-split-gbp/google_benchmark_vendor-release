@@ -101,4 +101,5 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/ament/google_benchmark_vendor.git
-    version: :{auto}
+    version: 0.3.0
+    version_saved: :{auto}
